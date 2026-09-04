@@ -1,5 +1,5 @@
 config:
-  value: This is main environment 2
+  value: This is main environment 3
 spring:
   application:
     name: quiz-service
